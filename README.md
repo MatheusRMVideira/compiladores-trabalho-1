@@ -30,5 +30,5 @@ Para executar de maneira independente:
 ```
 java -jar ./target/trabalho1-1.0-SNAPSHOT-jar-with-dependencies.jar {ARQUIVO DE ENTRADA} {ARQUIVO DE SAÍDA}
 ```
-[!IMPORTANT]
-Alterar __{ARQUIVO DE ENTRADA}__ e __{ARQUIVO DE SAÍDA}__ para os arquivos desejados
+>[!IMPORTANT]
+>Alterar __{ARQUIVO DE ENTRADA}__ e __{ARQUIVO DE SAÍDA}__ para os arquivos desejados
