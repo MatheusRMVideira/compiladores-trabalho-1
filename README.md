@@ -2,7 +2,9 @@
 
 ## Grupo:
 Matheus Rezende Milani Videira - 790809
+
 Mauricio Herrera Fontes - 790986
+
 Victor Germano Moreira Batista da Silva -769775
 
 ## Requisitos:
